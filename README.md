@@ -4,14 +4,11 @@ IIT BHU Alumni Angel Network is a initiative by E-Cell IIT BHU to help startups.
 
 ## Technologies Used
 
-- TypeScript
-- Next.js 13 App directory
-- NextAuth.js
+- JavaScript
+- React.js
 - Firebase ( Storage and Firestore)
-- Shadcn UI
 - React Hook Form
 - Zod 
-- Radix UI Primitives 
 - Tailwind CSS 
 - Icons from Lucide 
 - Dark mode with next-themes 
